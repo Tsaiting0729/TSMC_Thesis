@@ -7,7 +7,7 @@ A fully interactive, institutional-grade equity research dashboard analyzing Tai
 ---
 
 ## 📊 Live Demo
-👉 https://yourusername.github.io/your-repo-name/
+👉 https://tsaiting0729.github.io/TSMC_Thesis/
 
 ---
 
